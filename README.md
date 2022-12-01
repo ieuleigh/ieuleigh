@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ieuleigh
-- 👀 I’m interested in business, sales and legal tech
-- 🌱 I’m currently learning the ropes of github and java script 
+- 🌱 I’m currently learning the ropes of github and JavaScript 
 - 💞️ I’m looking to collaborate on the team's project anywhere I can help
 - 📫 How to reach me - info@validient.com
 
